@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=nombre
+comment1.target=Jugador(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=int[]\ getCoordenadas()
+comment5.params=coordenadas
+comment5.target=void\ setCoordenadas(int[])
+comment6.params=
+comment6.target=void\ mostrarMensaje()
+numComments=7

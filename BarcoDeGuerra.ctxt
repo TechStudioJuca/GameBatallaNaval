@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BarcoDeGuerra
+comment1.params=longitud
+comment1.target=BarcoDeGuerra(int)
+comment2.params=
+comment2.target=void\ atacar()
+comment3.params=
+comment3.target=void\ defender()
+comment4.params=
+comment4.target=void\ transportar()
+numComments=5

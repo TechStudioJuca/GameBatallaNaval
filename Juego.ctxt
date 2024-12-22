@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=
+comment1.target=Juego()
+comment2.params=
+comment2.target=void\ inicializarTableros()
+comment3.params=
+comment3.target=void\ jugar()
+comment4.params=tablero
+comment4.target=void\ imprimirTablero(char[][])
+comment5.params=tablero
+comment5.target=boolean\ ganador(char[][])
+comment6.params=
+comment6.target=void\ limpiarPantalla()
+comment7.params=nombreGanador
+comment7.target=void\ imprimirGanador(java.lang.String)
+numComments=8
